@@ -1,0 +1,193 @@
+
+.navbar{
+    text-decoration-color: rgb(7, 34, 7);
+     background-color: rgba(24, 77, 68, 0.576);;
+      border-radius:40px ;
+      position: fixed;
+      width: 400px;
+      height: 70px;
+      overflow: hidden;
+    margin-top: 5%;
+    margin-left: 200px;
+    transition: background-color 0.15s;color:0.15s;
+       }
+     .navbar a {
+      font-family: sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      display: inline-block;
+      color: rgba(12, 70, 12, 0.836);
+      text-align: center;
+      padding: 23px ;
+      text-decoration: none;
+  
+      }
+  .navbar :hover {
+  
+      background-color:rgba(144, 216, 204, 0.576);
+  }
+  .navbar :hover {
+      opacity: 0.9;
+  
+  }
+  .a{
+  padding: 20px;
+  
+  }
+  .hd{
+      margin-top: 5%;
+      border: none;
+      display: grid;
+  grid-template-columns: 800px 170px ;
+  } 
+  #joo{
+      width:170px ;
+      height:180px ;
+      border: none;
+      display: inline-block;
+      position: fixed;
+      margin-left: 2%;
+     
+  }
+  
+  #joo    :hover{
+  background-color: #ddd;
+  }
+  #joo :hover{
+      opacity: 0.9;
+  }  
+  
+  .ju{
+  
+    border: none;
+    border-radius: 55px;
+    transition: background-color 0.15s;color: 0.15s;
+  }
+  .imga{
+  border: none;
+  border-radius: 20px;
+  display: inline-block;
+  
+  }
+  .imgb{
+    display: inline-block;
+    border: none;
+    border-radius: 20px;
+  }
+.webimg{
+    display: inline-block;
+}
+  .dod{
+    height: 800px;
+  }
+  .imgc{
+    border: none;
+    border-radius: 20px;
+    display: inline-block;
+  }
+  body{
+    background-color: rgba(170, 190, 121, 0.664);
+  height: 700px;
+  }
+  .footerf{
+vertical-align: bottom;
+ margin-bottom: 1px;
+    padding-bottom: 30px;
+      margin-top: 70px;
+      border: solid #3f0d0d 4px;
+      font-size: medium;
+      background-color: rgb(84, 88, 23);
+    display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+  }
+  .cont{
+          margin-left: 10px;     
+      color:rgb(90, 202, 115);
+      font-family:  sans-serif;
+  }
+  .emailo{
+      color:rgb(90, 202, 115);
+      font-family: sans-serif;
+  }
+  .guy{
+
+text-align: center;
+margin-bottom: 50px;
+  }
+     
+  
+  .loca{
+     color:rgb(90, 202, 115);
+     font-family :  sans-serif;
+  }
+  h3{
+  color :silver;
+  font-weight: 600;
+  font-family: Verdana;
+   } 
+  
+  
+
+.thet{
+margin-bottom: 16px;
+
+}
+.kyabagu{
+    display: inline-block;
+    font-weight: 200px;
+    font-size: 22px;
+    color: rgba(8, 104, 128, 0.938);
+    height:50px;
+      width: 120px;
+      margin-left :440px ;
+      margin-bottom: 70px;
+      column-gap: 20px;
+      border: none;
+  column-gap: 25px;
+  display: grid;
+  grid-template-columns: 300px 300px;
+  }
+  .direc{ 
+      margin-left :360px ;
+      column-gap: 20px;
+      border: none;
+  column-gap: 25px;
+  display: grid;
+  grid-template-columns: 300px 300px;
+  
+  }
+  .director{
+
+    display: inline-block;
+    border: none;
+    border-radius: 100px;
+    }  
+
+
+h1{
+  color: rgba(19, 70, 19, 0.836);
+  font-weight: 700;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+.reserved{
+    color: silver;
+ display: inline-block;
+vertical-align: bottom;
+ text-align: center;
+}
+.ddd{
+    text-align: center;
+    vertical-align: bottom;
+}
+.history{
+  font-family:tahoma;
+  margin-left:100px ;
+  margin-right: 100px;
+  line-height: 28px;
+  text-align: center;
+    font-family: Verdana;
+  font-size:16px;
+  font-weight:300; 
+  color:rgba(6, 57, 66, 0.945);
+}

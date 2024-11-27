@@ -1,0 +1,102 @@
+.navbar{
+  text-decoration-color: rgb(7, 34, 7);
+   background-color: rgba(24, 77, 68, 0.576);;
+    border-radius:40px ;
+    position: fixed;
+    width: 800px;
+    height: 80px;
+    overflow: hidden;
+  margin-top: 5%;
+  margin-left: 200px;
+  transition: background-color 0.15s;color:0.15s;
+     }
+   .navbar a {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    display: inline-block;
+    color: rgba(12, 70, 12, 0.836);
+    text-align: center;
+    padding: 23px ;
+    text-decoration: none;
+
+    }
+.navbar :hover {
+
+    background-color:rgba(144, 216, 204, 0.576);
+}
+.navbar :hover {
+    opacity: 0.9;
+
+}
+.a{
+padding: 20px;
+
+}
+.hd{
+    margin-top: 5%;
+    border: none;
+    display: grid;
+grid-template-columns: 800px 170px ;
+} 
+#joo{
+    width:170px ;
+    height:180px ;
+    border: none;
+    display: inline-block;
+    position: fixed;
+    margin-left: 2%;
+   
+}
+
+#joo    :hover{
+background-color: #ddd;
+}
+#joo :hover{
+    opacity: 0.9;
+}  
+
+.ju{
+
+  border: none;
+  border-radius: 55px;
+  transition: background-color 0.15s;color: 0.15s;
+}
+.webimg{
+
+   viewport-fit: auto;
+
+}
+body{
+height: 1000px;
+}
+.footerf{
+    margin-top: 900px;
+    border: solid #3f0d0d 4px;
+    font-size: medium;
+    background-color: rgb(84, 88, 23);
+  display: grid;
+ grid-template-columns: 1fr 1fr 1fr;
+}
+.cont{
+        margin-left: 10px;     
+    color:rgb(90, 202, 115);
+    font-family:  sans-serif;
+}
+.emailo{
+    color:rgb(90, 202, 115);
+    font-family: sans-serif;
+}
+
+
+.loca{
+   color:rgb(90, 202, 115);
+   font-family:  sans-serif;
+}
+h3{
+color :rgb(25, 121, 199);
+font-weight: bold;
+font-family: Verdana;
+ } 
+
+
